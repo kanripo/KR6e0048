@@ -1,21 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:45.902930
+#+DATE: 2015-09-28 22:56:47.928526
 #+TITLE: 大方廣總持寶光明經
 #+PROPERTY: CBETA_ID T10n0299
 #+PROPERTY: ID KR6e0048
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 299
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6e0048_T_001-0884b> 
 #+PROPERTY: JUAN 1
 ¶
-No.299¶
-
- 《大方廣總持寶光明經》卷第一¶
+No. 299¶
+《大方廣總持寶光明經》卷第一¶
 ¶
-西天中印度摩伽陀國那爛陀寺¶
-傳教大師三藏賜紫沙門臣法天¶
+西天中印度摩伽陀國那爛陀寺傳教大師三藏賜紫沙門臣法天¶
 奉　詔譯¶
 
 如是我聞：
