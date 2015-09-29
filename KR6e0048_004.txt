@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:45.994310
+#+DATE: 2015-09-28 22:56:48.388274
 #+TITLE: 大方廣總持寶光明經
 #+PROPERTY: CBETA_ID T10n0299
 #+PROPERTY: ID KR6e0048
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 299
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6e0048_T_004-0897a> 
 #+PROPERTY: JUAN 4
 ¶
-
- 《大方廣總持寶光明經》卷第四¶
+《大方廣總持寶光明經》卷第四¶
 ¶
 西天中印度摩伽陀國那爛陀寺¶
 傳教大師三藏賜紫沙門臣法天¶
@@ -465,7 +464,7 @@
 　亦自依稟本師教。¶
 　或有常持捨身法，
 　或即執有執本無，¶
-　長髮𩭓髻童子相，
+　長髮[髟/酉]髻童子相，
 　亦自依稟於本師。¶
 　或有事日五炙身，
 　狗戒牛戒鹿皮衣，¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:46.031314
+#+DATE: 2015-09-28 22:56:48.416746
 #+TITLE: 大方廣總持寶光明經
 #+PROPERTY: CBETA_ID T10n0299
 #+PROPERTY: ID KR6e0048
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 299
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6e0048_T_005-0901a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《大方廣總持寶光明經》卷第五¶
+《大方廣總持寶光明經》卷第五¶
 ¶
 西天中印度摩伽陀國那爛陀寺¶
 傳教大師三藏賜紫沙門臣法天¶
