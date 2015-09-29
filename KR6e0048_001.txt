@@ -1,21 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:45.902930
+#+DATE: 2015-09-28 22:56:48.684233
 #+TITLE: 大方廣總持寶光明經
 #+PROPERTY: CBETA_ID T10n0299
 #+PROPERTY: ID KR6e0048
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 299
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0048_T_001-0884b> 
 #+PROPERTY: JUAN 1
 ¶
-No.299¶
-
- 《大方廣總持寶光明經》卷第一¶
+No. 299¶
+《大方廣總持寶光明經》卷第一¶
 ¶
-西天中印度摩伽陀國那爛陀寺¶
-傳教大師三藏賜紫沙門臣法天¶
+西天中印度摩伽陀國那爛陀寺傳教大師三藏賜紫沙門臣法天¶
 奉　詔譯¶
 
 如是我聞：
@@ -35,7 +33,7 @@ No.299¶
 大勢至菩薩摩訶薩、堅牢慧菩薩摩訶薩、金¶
 剛吉祥菩薩摩訶薩、金剛手菩薩摩訶薩、妙¶
 吉祥菩薩摩訶薩、滅惡趣菩薩摩訶薩、除一¶
-切煩惱慧菩薩摩訶薩、安詳步菩薩摩訶薩、¶
+切煩惱慧菩薩摩訶薩、安祥步菩薩摩訶薩、¶
 離取捨菩薩摩訶薩、栴檀香菩薩摩訶薩、海¶
 慧菩薩摩訶薩、難勝菩薩摩訶薩、寶勝菩薩¶
 摩訶薩、慧行菩薩摩訶薩、辯積菩薩摩訶薩、¶
