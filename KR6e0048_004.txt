@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:45.994310
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:45
 #+TITLE: 大方廣總持寶光明經
 #+PROPERTY: CBETA_ID T10n0299
 #+PROPERTY: ID KR6e0048
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 299
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0048_T_004-0897a> 
 #+PROPERTY: JUAN 4
 ¶
-
- 《大方廣總持寶光明經》卷第四¶
+《大方廣總持寶光明經》卷第四¶
 ¶
 西天中印度摩伽陀國那爛陀寺¶
 傳教大師三藏賜紫沙門臣法天¶
@@ -747,8 +746,8 @@
 　天上人間所出香，
 　用為供養諸如來，¶
 　眾多佛塔我盡塗，
-　是故放此塗香光。
+　是故放此塗香光。」
 #+END_VERSE
-」¶
+¶
 《大方廣總持寶光明經》卷第四¶
 

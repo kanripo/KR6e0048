@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:45.962029
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:45
 #+TITLE: 大方廣總持寶光明經
 #+PROPERTY: CBETA_ID T10n0299
 #+PROPERTY: ID KR6e0048
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 299
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0048_T_003-0893a> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《大方廣總持寶光明經》卷第三¶
+《大方廣總持寶光明經》卷第三¶
 ¶
 西天中印度摩伽陀國那爛陀寺¶
 傳教大師三藏賜紫沙門臣法天¶
@@ -273,9 +272,9 @@
 「　「令他安樂心悲愍，
 　悉能隨順諸眾生，¶
 　三業清淨善稱揚，
-　無等功德真實寶。」
+　無等功德真實寶。」」
 #+END_VERSE
-」¶
+¶
 
 是時普賢菩薩摩訶薩，白佛言：「世尊！菩薩摩¶
 訶薩云何當得此寶光總持法故？」
@@ -581,9 +580,9 @@
 　既得生於如來家，
 　即得解脫妙相應，¶
 　若常解脫妙相應，
-　彼發心意皆清淨。
+　彼發心意皆清淨。」
 #+END_VERSE
-」¶
+¶
 《大方廣總持寶光明經》卷第三
 <pb:KR6e0048_T_003-0897a>¶
 

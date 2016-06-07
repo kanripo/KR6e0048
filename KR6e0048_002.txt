@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:45.935441
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:45
 #+TITLE: 大方廣總持寶光明經
 #+PROPERTY: CBETA_ID T10n0299
 #+PROPERTY: ID KR6e0048
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 299
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0048_T_002-0888b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《大方廣總持寶光明經》卷第二¶
+《大方廣總持寶光明經》卷第二¶
 ¶
 西天中印度摩伽陀國那爛陀寺¶
 傳教大師三藏賜紫沙門臣法天¶
@@ -424,9 +423,9 @@
 　功德數量莫能知，
 　最初一念菩提心，¶
 　如是世界化群生，
-　無能超越過於彼。」
+　無能超越過於彼。」」
 #+END_VERSE
-」¶
+¶
 
 是時普賢菩薩摩訶薩，告法慧菩薩言：「善男¶
 子！善哉，善哉！汝今善說此寶光總持法門。復¶
